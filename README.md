@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # prod_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# prodApp
+>>>>>>> 39ad78f6cb2673266ac7a85a9cb2748728e5e4db
